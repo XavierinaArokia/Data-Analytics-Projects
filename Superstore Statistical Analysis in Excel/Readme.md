@@ -1,4 +1,4 @@
-## DOWNLOAD FILE
+## [DOWNLOAD FILE](https://github.com/XavierinaArokia/Data-Analytics-Projects/blob/main/Superstore%20Statistical%20Analysis%20in%20Excel/Superstore%20Statistical%20Analysis.xlsx)
 ![1](https://user-images.githubusercontent.com/128254932/226602319-179c9343-c799-4e9e-a6ec-cf6c8b22aedd.PNG)
 ![2](https://user-images.githubusercontent.com/128254932/226602331-b59252c2-18f9-4f36-b404-6beadf11e95e.PNG)
 ![3](https://user-images.githubusercontent.com/128254932/226602336-b6586ecf-f344-403a-b208-850132f53ca2.PNG)
