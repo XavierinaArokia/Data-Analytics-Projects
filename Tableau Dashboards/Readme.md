@@ -1,5 +1,5 @@
-## [SUPERSTORE DASHBOARD](https://public.tableau.com/app/profile/xavierina/viz/Superstore_16792549282450/SUPERSTORE)
-[![SUPERSTORE](https://user-images.githubusercontent.com/128254932/226599771-f5d8aa60-f9dd-4ba1-809e-a1e745d1e4fe.png)](https://public.tableau.com/app/profile/xavierina/viz/Superstore_16792549282450/SUPERSTORE)
+## [SUPERSTORE DASHBOARD](https://public.tableau.com/app/profile/xavierina/viz/Superstore_16876351448990/Superstore)
+[![superstore](https://github.com/XavierinaArokia/Data-Analytics-Projects/assets/128254932/a84c9567-5527-46ab-acf0-f4cc21ded5a7)](https://public.tableau.com/app/profile/xavierina/viz/Superstore_16876351448990/Superstore)
 
-## [E-COMMERCE SHIPPING DASHBOARD](https://public.tableau.com/app/profile/xavierina/viz/E-CommerceShipping/Dashboard1)
-[![E-Commerce Shipping Dashboard](https://user-images.githubusercontent.com/128254932/226599781-d88d338a-e9e4-4b31-b9f9-6b05ccf6f8fd.png)](https://public.tableau.com/app/profile/xavierina/viz/E-CommerceShipping/Dashboard1)
+## [E-COMMERCE SHIPPING DASHBOARD](https://public.tableau.com/app/profile/xavierina/viz/E-CommerceShipping/E-commerce)
+[![e-commerce](https://github.com/XavierinaArokia/Data-Analytics-Projects/assets/128254932/9955effe-66a3-484a-aadb-a973c954fbce)](https://public.tableau.com/app/profile/xavierina/viz/E-CommerceShipping/E-commerce)
